@@ -4,6 +4,10 @@
 
 This folder contains all SolidWorks files related to the ergonomic jig project. These files include part files, assembly files, and associated configurations necessary for the design and prototyping phases.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8967c37-e799-4ce9-b9a0-60272fb84325" alt="Proto 6.2 Assembly" width="700">
+</p>
+
 ## Contents
 
 1. **Part Files**: Individual components designed in SolidWorks.
