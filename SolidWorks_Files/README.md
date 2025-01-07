@@ -17,7 +17,7 @@ This folder contains all SolidWorks files related to the ergonomic jig project. 
 ## Usage
 
 - Open these files using SolidWorks 2024 or compatible versions.
-- Refer to the [Engineering Analysis](../EngineeringAnalysis.md) file for technical context and analysis.
+- Refer to the [Engineering Analysis](../[EngineeringAnalysis.md](https://github.com/Shedgecock/Formula-SAE-Ergonomic-Jig/blob/main/Engineering%20Analysis.pdf)) file for technical context and analysis.
 - Use these files to view, modify, or analyze the project's design.
 
 ---
